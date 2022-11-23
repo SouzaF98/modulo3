@@ -1,0 +1,137 @@
+{
+  "livros": [
+    {
+      "nome": "Biblia",
+      "paginas": 1200,
+      "lancamento": 1,
+      "autor": "Deus",
+      "id": 1
+    },
+    {
+      "nome": "7 habitos das pessoas altamente eficazes",
+      "paginas": 412,
+      "lancamento": 1980,
+      "autor": "Tim Killer",
+      "id": 2
+    },
+    {
+      "nome": "Do mil ao milhão",
+      "paginas": 219,
+      "lancamento": 2019,
+      "autor": "Tiago Nigro",
+      "id": 3
+    },
+    {
+      "nome": "Historia do Brasil",
+      "paginas": 320,
+      "lancamento": 2001,
+      "autor": "Orlando",
+      "id": 4
+    },
+    {
+      "nome": "Nome livro 5",
+      "paginas": 99,
+      "lancamento": 2000,
+      "autor": "Autor 5",
+      "id": 5
+    }
+  ],
+  "funcionarios": [
+    {
+      "nome": "Mateus",
+      "idade": 21,
+      "cor": "branco",
+      "salario": 1500,
+      "id": 1
+    },
+    {
+      "nome": "Douglas",
+      "idade": 99,
+      "cor": "preto",
+      "salario": 1100,
+      "id": 2
+    },
+    {
+      "nome": "Lara",
+      "idade": 18,
+      "cor": "preto",
+      "salario": 1150,
+      "id": 3
+    },
+    {
+      "nome": "Vini",
+      "idade": 18,
+      "cor": "branco",
+      "salario": 1200,
+      "id": 4
+    }
+  ],
+  "livrarias": [
+    {
+      "nome": "Livraria boa Esperança",
+      "endereco": "Rua Maria da Silva",
+      "numero": 50,
+      "bairro": "Campo Grande",
+      "id": 1
+    },
+    {
+      "nome": "Livraria boa Esperança 2",
+      "endereco": "Rua Barcelos Domingos",
+      "numero": 180,
+      "bairro": "Campo Grande",
+      "id": 2
+    },
+    {
+      "nome": "Livraria boa Esperança 3",
+      "endereco": "Rua Heracto Graça",
+      "numero": 100,
+      "bairro": "Méier",
+      "id": 3
+    },
+    {
+      "nome": "Livraria boa Esperança 4",
+      "endereco": "Rua Boa fé",
+      "numero": 200,
+      "bairro": "Copacabana",
+      "id": 4
+    }
+  ],
+  "clientes": [
+    {
+      "nome": "Jorge",
+      "genero": "Masculino",
+      "idade": 19,
+      "endereco": "Rua Oswaldo Cruz",
+      "numero": 500,
+      "bairro": "Botafogo",
+      "id": 1
+    },
+    {
+      "nome": "Larissa",
+      "genero": "Feminino",
+      "idade": 29,
+      "endereco": "Rua André Rocha",
+      "numero": 271,
+      "bairro": "Jacarepagua",
+      "id": 2
+    },
+    {
+      "nome": "Bia",
+      "genero": "Feminino",
+      "idade": 20,
+      "endereco": "Rua Renato Gabizo",
+      "numero": 140,
+      "bairro": "Campo Grande",
+      "id": 3
+    },
+    {
+      "nome": "Gabriel",
+      "genero": "Masculino",
+      "idade": 21,
+      "endereco": "Rua Jorge",
+      "numero": 170,
+      "bairro": "Campo Grande",
+      "id": 4
+    }
+  ]
+}
